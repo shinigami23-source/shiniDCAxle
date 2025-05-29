@@ -1,0 +1,17 @@
+KEYWORD1 shiniDCAxle
+
+KEYWORD2 begin(shiniDCMotor,shiniDCMotor);  //left right
+KEYWORD2 stop
+KEYWORD2 forward
+KEYWORD2 reverse
+KEYWORD2 spinRight
+KEYWORD2 spinLeft   
+KEYWORD2 concernLeft
+KEYWORD2 concernRight
+KEYWORD2 concernReverseLeft
+KEYWORD2 concernReverseRight                                                                                                                                                                                                      
+KEYWORD2 getDuty
+KEYWORD2 setDuty
+
+
+
